@@ -12,4 +12,4 @@ cube=num**3
 fifth=num**5
 # displaying the results
 st.write(f"the given number is {num} \n 1. Square of the number is {sqr} \n 2. Cube of the number is {cube} \n 3. 5th power of the number is {fifth}")
-# st.close()
+# st.close()``
